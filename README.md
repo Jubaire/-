@@ -15,16 +15,16 @@
 
 ## 🧰 Tech Stack
 - 💻 Languages:  
-  `JavaScript` | `Python` | `C` | `C++`
+  `Python(Basic)`
 
 - 🌐 Web:  
-  HTML | CSS(Basic)
+  `HTML` | `CSS(Basic)`
 
 - 🛠️ Tools & Platforms:  
-  Git | GitHub | VS Code | AI 
+  `Git` | `GitHub` | `VS Code` | AI `
 
 - 🌍 Networking:  
-  Cisco Packet Tracer | IP Subnetting | Basic Routing & Switching
+  `Cisco Packet Tracer` | `IP Subnetting` | `Basic Routing & Switching`
 
 ---
 
@@ -46,7 +46,7 @@
 ---
 
 ## 📫 Connect With Me
-- 💬 Discord: beluga_bbn
+- 💬 Discord: `beluga_bbn`
 - 📧 Email: jubaireislam2007@gmail.com
 - 🌐 Portfolio: Coming Soon...
 
